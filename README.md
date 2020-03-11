@@ -4,7 +4,7 @@ A brief Github demo, with some resources highlighted below.
 ## Resources
 - [Github](https://github.com/)
 - [Github Desktop](https://desktop.github.com/)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images). See [Typora](https://typora.io/) for a nice markdown editor.
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). See [Typora](https://typora.io/) for a nice markdown editor.
 
 ## Markdown Links
 It's easy to make links to websites or files within your repo:
