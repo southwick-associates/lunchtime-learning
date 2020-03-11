@@ -1,5 +1,5 @@
 # lunchtime-learning
-A brief Github demo, with some resources highlighted below.
+A brief Github demo, with some resources highlighted below. The presentation recording is [available here](https://web.microsoftstream.com/video/47cc1ee5-f706-4f68-82ce-2181a0de2e9f)
 
 ## Resources
 - [Github](https://github.com/)
